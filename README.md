@@ -4,7 +4,7 @@
 
 Overview: Some simple scripting and visualisation of dataset from coding test. Each line in the data set represents an order from a supermarket.
 
-
+![](https://github.com/brandonong97/data_analytics_projects/blob/main/project_1_image_1.png)
 
 
 
